@@ -10,30 +10,30 @@
 ![GIT GUI](screenshots/2.png)
 
 Добавил репозиторий https://github.com/Kurtyanik/LR6.git в свой репозиторий:
-![Репозиторий](screenshots/3.png)
+![Репозиторий](screenshots/3.PNG
 
 История операций:
-![Ветка мастер](screenshots/4.png)
-![Вторая ветка](screenshots/5.png)
+![Ветка мастер](screenshots/4.PNG)
+![Вторая ветка](screenshots/5.PNG)
 
 Объединение веток master и branch1 получилось с ошибкой:
-![Ошибка](screenshots/6.png)
+![Ошибка](screenshots/6.PNG)
 
 Файл до исправления:
-![Файл](screenshots/7.png)
+![Файл](screenshots/7.PNG)
 
 Файл после исправления:
-![После исправления](screenshots/8.png)
+![После исправления](screenshots/8.PNG)
 
 Удаление побочной ветки:
-![Удаление побочной ветки](screenshots/9.png)
+![Удаление побочной ветки](screenshots/9.PNG)
 
 Переименовал файл README в Lookme, после чего сделал "хард" откат коммита:
-![Переимнование](screenshots/10.png)
-![Хардоткат](screenshots/11.png)
+![Переимнование](screenshots/10.PNG)
+![Хардоткат](screenshots/11.PNG)
 
 История комманд:
-![Логи](screenshots/12.png)
+![Логи](screenshots/12.PNG)
 
 Вывод: изучил базовые возможности системы управления версиями Git Api, работу с локальным и удаленным репозиторием. 
 
